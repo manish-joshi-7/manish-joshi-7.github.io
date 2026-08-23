@@ -59,4 +59,5 @@ I'm currently building practical data analytics projects and developing my skill
 I'm interested in entry-level Data Analyst and Data Analytics opportunities where I can apply my analytical skills and continue learning.
 
 ## Contact
-- Email: [Your Email](mailto:manishjoshi.it2007@gmail.com)
+- Email: manishjoshi.it2007@gmail.com
+- Portfolio: https://manish-joshi-7.github.io/
